@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971572017803",
+    "project_id": "push-notifications-e0fed",
+    "storage_bucket": "push-notifications-e0fed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971572017803:android:1deb6fcd70a8a1ac10f28e",
+        "android_client_info": {
+          "package_name": "dev.asdex.notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_wEvtmxAZDy3bKNyiL662CYuPYJxfKEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
